@@ -6,13 +6,13 @@ This project helps users manage their daily expenses by allowing them to add, vi
 The main purpose of this project is to demonstrate the concepts of OOP such as classes, objects, inheritance, encapsulation, polymorphism, and file handling.
 
 ## Features
-Add new expenses
-View all expense records
-Search expenses
-Delete expense records
-File handling for data storage
-Error handling and input validation
-User-friendly console interface
+-Add new expenses
+-View all expense records
+-Search expenses
+-Delete expense records
+-File handling for data storage
+-Error handling and input validation
+-User-friendly console interface
 
 ## Technologies Used
 
@@ -28,10 +28,10 @@ Exception Handling
 
 ## Objectives
 
--To manage daily expenses efficiently
--To understand the implementation of OOP concepts
--To practice file handling in C++
--To improve problem-solving and programming skills
+-To manage daily expenses efficiently.
+-To understand the implementation of OOP concepts.
+-To practice file handling in C++.
+-To improve problem-solving and programming skills.
 
 ## Future Improvements
 
